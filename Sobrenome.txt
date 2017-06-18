@@ -1,1 +1,1 @@
-Meu sobrenome � Gomes.
+﻿Meu sobrenome é Gomes.
